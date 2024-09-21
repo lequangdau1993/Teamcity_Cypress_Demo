@@ -7,7 +7,7 @@ describe('example to-do app', () => {
   
     it('displays two todo items by default', () => {      
       cy.get('[title="Used"]').click();
-    })
+    });
 
   })
   
