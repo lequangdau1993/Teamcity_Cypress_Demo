@@ -23,7 +23,7 @@ describe('example test with cypress', () => {
       cy.get('#ndfe-option_make').find('.v-select__slot').click();
 
       cy.testStep("Select Make");
-      cy.get('.v-menu__content').contains('Audi').click();
+      cy.get('.v-menu__content').contains('BMW').click();
 
 
       cy.testStep("Verify chip is display");
