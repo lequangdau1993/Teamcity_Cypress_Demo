@@ -1,6 +1,6 @@
 module.exports = {
  'projectId': '4b7344',
-  video: false,
+  video: true,
   e2e: {
     baseUrl: 'http://localhost:8080',
     specPattern: [
