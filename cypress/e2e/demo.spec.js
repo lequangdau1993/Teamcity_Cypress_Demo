@@ -31,7 +31,9 @@ describe("Verify regression test running with multiple logins", () => {
       );
       cy.get('a[href*="/orders"]').click();
       cy.wait("@donhang").then((xhr) => {
-        const newData = xhr.response.body.data.map((order) => ({
+        const newData = xhr.response.body.data
+        .filter(order => order.trangthai === "Đã giao") // ✅ Chỉ lấy đơn hàng đã giao
+        .map((order) => ({
           ...order,
           phone, // Gán số điện thoại vào đơn hàng
           web: phoneData[phone] ? phoneData[phone].web : "N/A",

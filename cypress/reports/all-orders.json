@@ -1,30 +1,6 @@
 {
   "0911994232": [
     {
-      "madon": "TNGA25022103",
-      "masp": "T0074",
-      "size": "3.00x4.00m",
-      "soluong": "1",
-      "nguoinhan": "Anh Đồng",
-      "ngaygiao": "28-02-2025",
-      "trangthai": "Chưa giao",
-      "phone": "0911994232",
-      "web": "thamsofaphongkhach.com",
-      "owner": "Đồng"
-    },
-    {
-      "madon": "TNGA25022103",
-      "masp": "T0074",
-      "size": "2.00x3.00m",
-      "soluong": "1",
-      "nguoinhan": "Anh Đồng",
-      "ngaygiao": "28-02-2025",
-      "trangthai": "Chưa giao",
-      "phone": "0911994232",
-      "web": "thamsofaphongkhach.com",
-      "owner": "Đồng"
-    },
-    {
       "madon": "TNGA25022102",
       "masp": "S1016",
       "size": "3.00x4.00m",
@@ -799,30 +775,6 @@
   ],
   "0919677612": [
     {
-      "madon": "TNGA25021901",
-      "masp": "MS0010",
-      "size": "1.60x2.30m",
-      "soluong": "4",
-      "nguoinhan": "Anh Mạnh",
-      "ngaygiao": "26-02-2025",
-      "trangthai": "Chưa giao",
-      "phone": "0919677612",
-      "web": "thamsofa.khotahmdep.net",
-      "owner": "Mạnh"
-    },
-    {
-      "madon": "TNGA25021901",
-      "masp": "MS0010",
-      "size": "1.20x1.80m",
-      "soluong": "1",
-      "nguoinhan": "Anh Mạnh",
-      "ngaygiao": "26-02-2025",
-      "trangthai": "Chưa giao",
-      "phone": "0919677612",
-      "web": "thamsofa.khotahmdep.net",
-      "owner": "Mạnh"
-    },
-    {
       "madon": "MCL250103",
       "masp": "mautrangtri",
       "size": "0.15x0.15m",
@@ -945,18 +897,6 @@
   ],
   "0916643608": [
     {
-      "madon": "TNGA25021805",
-      "masp": "MS0015R",
-      "size": "2.00x2.00m",
-      "soluong": "1",
-      "nguoinhan": "Anh Ninh",
-      "ngaygiao": "03-03-2025",
-      "trangthai": "Chưa giao",
-      "phone": "0916643608",
-      "web": "thamdepcaocap.com",
-      "owner": "Loan"
-    },
-    {
       "madon": "TNGA25010905",
       "masp": "I0061R20",
       "size": "2.00x2.00m",
@@ -967,45 +907,9 @@
       "phone": "0916643608",
       "web": "thamdepcaocap.com",
       "owner": "Loan"
-    },
-    {
-      "madon": "TNGA23101703",
-      "masp": "LE23KBGIGA09_WHITE_80x150",
-      "size": "0.80x1.50m",
-      "soluong": "0",
-      "nguoinhan": "Chị Loan ",
-      "ngaygiao": "18-10-2023",
-      "trangthai": "Chưa giao",
-      "phone": "0916643608",
-      "web": "thamdepcaocap.com",
-      "owner": "Loan"
     }
   ],
   "0904338082": [
-    {
-      "madon": "TNGA25021904",
-      "masp": "LE_SISAL_60006489_ECRU_BLACK_200x300",
-      "size": "2.00x3.00m",
-      "soluong": "1",
-      "nguoinhan": "Chị Phương",
-      "ngaygiao": "28-02-2025",
-      "trangthai": "Chưa giao",
-      "phone": "0904338082",
-      "web": "thamsofachinhhang.com",
-      "owner": "chị Chưởng"
-    },
-    {
-      "madon": "TNGA25021904",
-      "masp": "LE_SISAL_60006489_SGREY_BLUE_200x300",
-      "size": "2.00x3.00m",
-      "soluong": "2",
-      "nguoinhan": "Chị Phương",
-      "ngaygiao": "28-02-2025",
-      "trangthai": "Chưa giao",
-      "phone": "0904338082",
-      "web": "thamsofachinhhang.com",
-      "owner": "chị Chưởng"
-    },
     {
       "madon": "TNGA25021801",
       "masp": "T0052",
@@ -1410,18 +1314,6 @@
       "nguoinhan": "Anh Việt",
       "ngaygiao": "26-12-2024",
       "trangthai": "Đã giao",
-      "phone": "0904338082",
-      "web": "thamsofachinhhang.com",
-      "owner": "chị Chưởng"
-    },
-    {
-      "madon": "01721",
-      "masp": "S1003",
-      "size": "3.00x4.00m",
-      "soluong": "0",
-      "nguoinhan": "Chị Hằng",
-      "ngaygiao": "30-12-2022",
-      "trangthai": "Chưa giao",
       "phone": "0904338082",
       "web": "thamsofachinhhang.com",
       "owner": "chị Chưởng"
