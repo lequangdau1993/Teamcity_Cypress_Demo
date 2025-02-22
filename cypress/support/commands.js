@@ -24,5 +24,5 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 Cypress.Commands.add('testStep', (stepDescription) => {
-    cy.log(`-- **${stepDescription}** --`);
-  });
+  cy.log(`-- **${stepDescription}** --`);
+});
